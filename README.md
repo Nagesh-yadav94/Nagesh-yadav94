@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Any kind of New projects on Front-End Development
-- 📫 How to reach me This Is My LinkedIn Profile Url https://www.linkedin.com/in/nagesh-baliboyina-68a615290/
+- 📫 How to reach me Keep Touch in at https://www.linkedin.com/in/nagesh-baliboyina-68a615290/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My idea of a perfect weekend is a hackathon with friends and unlimited coffee.
 
