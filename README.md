@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nagesh-yadav94
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Any kind of New projects on Front-End Development
-- 📫 How to reach me Keep Touch in at https://www.linkedin.com/in/nagesh-baliboyina-68a615290/
+- 💞️ I’m looking to collaborate on Any kind of New projects based on Frontend Developer | Backend Developer | Full Stack Developer | web Developer
+- 📫 How to reach me Just Click here https://www.linkedin.com/in/nageshbaliboyina | Email: nageshbaliboyina@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My idea of a perfect weekend is a hackathon with friends and unlimited coffee.
 
