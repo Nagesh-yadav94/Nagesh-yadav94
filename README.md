@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @Nagesh-yadav94
-- 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Any kind of New projects based on Frontend Developer | Backend Developer | Full Stack Developer | web Developer
-- 📫 How to reach me Just Click here https://www.linkedin.com/in/nageshbaliboyina | Email: nageshbaliboyina@gmail.com
-- My Portfolio Click Here https://myportfolionagesh.netlify.app
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My idea of a perfect weekend is a hackathon with friends and unlimited coffee.
+Hi there, I'm Nagesh Baliboyina 👋
+
+- 👨‍💻 I’m passionate about Full Stack Development.
+
+- 🌱 Currently deepening my skills in building scalable web applications.
+
+- 👀 Interested in opportunities related to Frontend, Backend, Full Stack, and Web Development.
+
+- 💬 Always open to collaborate on exciting new projects!
+
+- 📫 Reach me:
+
+-   LinkedIn: https://www.linkedin.com/in/nageshbaliboyina
+
+-   📧 Email: nagesh.devstack@gmail.com
+
+-   🌐 Check out my Portfolio Website: https://nageshdevstack.netlify.app/
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: My idea of a perfect weekend? A hackathon with friends and endless coffee ☕🚀
 
 <!---
 Nagesh-yadav94/Nagesh-yadav94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
